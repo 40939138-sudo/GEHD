@@ -1,0 +1,59 @@
+{
+  "schema": "GEHD_DEPENDENCIES_V1",
+  "tools": [
+    {
+      "name": "Python",
+      "version": "3.12.14",
+      "file": "python.exe",
+      "sha256": "8E11F5C0C4CDEA438059FEEA1B750721929433374B389674C8368AE8BFCBF525",
+      "source": "https://www.python.org/downloads/",
+      "bundled": false
+    },
+    {
+      "name": "Perl",
+      "version": "Git for Windows bundled",
+      "file": "perl.exe",
+      "sha256": "BA92B05B95B2A8C70534B7517D23623332E15B3395641C30ECC1DEFFC1ED5F27",
+      "source": "https://gitforwindows.org/",
+      "bundled": false
+    },
+    {
+      "name": "MSVC x86",
+      "version": "19.50.35730",
+      "file": "vcvars32.bat",
+      "sha256": "E0F12BA374968F55CE898EE0384EB9C9B989CC3B499E3C0D553368AD223E28C8",
+      "source": "https://visualstudio.microsoft.com/",
+      "bundled": false
+    },
+    {
+      "name": "7-Zip",
+      "version": "26.06",
+      "file": "7za.exe",
+      "sha256": "DD3757F31C97E33776F2590317D4FB12F2DA075DB3DBB1E3F94D0F2A01D84FFA",
+      "source": "https://www.7-zip.org/",
+      "bundled": false
+    },
+    {
+      "name": "Inno Setup",
+      "version": "7.1.1",
+      "file": "ISCC.exe",
+      "sha256": "E0F9F1DC32032650C6629F6DEE41EB6D20BA140E4E3C07C25D8A24F9BA781644",
+      "source": "https://jrsoftware.org/isinfo.php",
+      "bundled": false
+    },
+    {
+      "name": "DirectXTex",
+      "version": "may2026",
+      "file": "texconv.exe",
+      "sha256": "DCFDEC10244E02CF5037FBA089C55FB7E1326B1C8181742D77D15FA5CB5EEF06",
+      "source": "https://github.com/microsoft/DirectXTex/releases/tag/may2026",
+      "bundled": false
+    }
+  ],
+  "system": [
+    "Windows x86 D3DX9_43 runtime for fixture contracts",
+    "Windows SDK"
+  ],
+  "vendored": "openssl-sha/source.json",
+  "researchRuntime": "research-runtime/package-lock.json"
+}

@@ -1,0 +1,17 @@
+# These execution-qualified inputs must retain their exact bytes across checkout.
+草稿區/有界取證/source_observation/*.js -text
+草稿區/有界取證/source_observation/*.mjs -text
+草稿區/有界取證/source_observation/*.cpp -text
+草稿區/有界取證/run_rea_queries.mjs -text
+草稿區/有界取證/run_engine_research.mjs -text
+草稿區/有界取證/engine_research/** -text
+
+# Preserve migrated qualified bytes and vendored provenance.
+src/** -text
+scripts/** -text
+tests/** -text
+tools/** -text
+dependencies/** -text
+*.md -text
+*.json -text
+VERSION -text

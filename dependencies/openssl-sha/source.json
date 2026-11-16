@@ -1,0 +1,45 @@
+{
+  "commit": "45e844fa2a14ec92d146bd8f5778ac130b6625fb",
+  "tagObject": "d0ca66a1abe52545f14eca635c648932fcde5615",
+  "files": [
+    {
+      "sha256": "89338FCE8C0691DAB40EB9772ABB5D7227BC2EAB0778C6FD95D712842134A915",
+      "path": "crypto/sha/asm/sha256-586.pl",
+      "bytes": 37081,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/crypto/sha/asm/sha256-586.pl"
+    },
+    {
+      "sha256": "DA48FE74829EF5B1944E05F73DB57183AFC9D4F231DC6A36E1A51D009B213D6A",
+      "path": "crypto/perlasm/x86asm.pl",
+      "bytes": 7236,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/crypto/perlasm/x86asm.pl"
+    },
+    {
+      "sha256": "6A4003FB42B62DB2A255CD5509A2E31B7E91CE3F4ECB5B0A2D63FDECF7972ED6",
+      "path": "crypto/perlasm/x86masm.pl",
+      "bytes": 4873,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/crypto/perlasm/x86masm.pl"
+    },
+    {
+      "sha256": "8A93FCE3799D5E6CB3175870FBE26A6BE25CE3DD994BE66762EF3D2D37D76105",
+      "path": "crypto/perlasm/x86gas.pl",
+      "bytes": 6787,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/crypto/perlasm/x86gas.pl"
+    },
+    {
+      "sha256": "634A852A64885856AE50AAA414DDA295861C978D6D788F90F727B0B607F85511",
+      "path": "crypto/perlasm/x86nasm.pl",
+      "bytes": 4601,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/crypto/perlasm/x86nasm.pl"
+    },
+    {
+      "sha256": "7D5450CB2D142651B8AFA315B5F238EFC805DAD827D91BA367D8516BC9D49E7A",
+      "path": "LICENSE.txt",
+      "bytes": 10175,
+      "url": "https://raw.githubusercontent.com/openssl/openssl/45e844fa2a14ec92d146bd8f5778ac130b6625fb/LICENSE.txt"
+    }
+  ],
+  "tag": "openssl-3.5.9",
+  "scope": "Unmodified official SHA256 x86 block transform and perlasm; custom tested streaming adapter, not full libcrypto",
+  "repository": "https://github.com/openssl/openssl"
+}

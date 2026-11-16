@@ -1,0 +1,353 @@
+{
+  "schema": "GEHD_SOURCE_MAP_V1",
+  "legacyPolicy": "Copied originals and fixed builds are frozen evidence. Maintain destination only. Existing engine_research and source_observation remain their documented source locations.",
+  "files": [
+    {
+      "source": "草稿區/有界取證/texture_pack/pack_loader.cpp",
+      "destination": "src/loader/pack_loader.cpp",
+      "sha256": "59DC16F0BDB19BCC6D87D3131C41D52FC478637BEA5E96CFA1DC1BD272D45D91",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/load_timing.hpp",
+      "destination": "src/loader/load_timing.hpp",
+      "sha256": "EFC44A4C628260DCE1DC9F8DAFF4307101E8422BCFD42BD5BD1AA18CFA40BF98",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loader_hash.hpp",
+      "destination": "src/loader/loader_hash.hpp",
+      "sha256": "3AEC2A8FDAAF312761930EBECE24D9EE55B87B046F3D126F8A3590471673B545",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_runtime.hpp",
+      "destination": "src/loader/loading_runtime.hpp",
+      "sha256": "C3C3C70C17FA6C1B11544776C355781A490542256DE262320B51E8B038EC9EE7",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_identity.hpp",
+      "destination": "src/loader/loading_identity.hpp",
+      "sha256": "3A966CE6DFBD9194B603B23F401839D69C393473498E4A68DDE2D735BCA46F2B",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_variant_paths.hpp",
+      "destination": "src/loader/loading_variant_paths.hpp",
+      "sha256": "B160D17056BB32999B46C259E9EC31AC28F21E9DBCE35BB4F55C07A4D8000519",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/bounded_prefetch.hpp",
+      "destination": "src/loader/bounded_prefetch.hpp",
+      "sha256": "6E748B90F1E7567B74828FF271984046D68B3E264F26AB6058A71AB0E8DDCD72",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/persistent_profile.hpp",
+      "destination": "src/loader/persistent_profile.hpp",
+      "sha256": "EE5E9DE26E374EFB69D794A6534E0E2F52090104A7E7DAD7D5DC4B615E9B518A",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/cpu_prepare.hpp",
+      "destination": "src/loader/cpu_prepare.hpp",
+      "sha256": "219F3D4DE2A99ED0E5D492B8319931618FCBEF241867F437A8E68640AA81D5B3",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/prefetch_trace.hpp",
+      "destination": "src/loader/prefetch_trace.hpp",
+      "sha256": "3054E29851765ADF33B64B8868A0947C76E9B4DCA9EBBE0F194E9290758DD588",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/openssl_loader_sha.hpp",
+      "destination": "src/loader/openssl_loader_sha.hpp",
+      "sha256": "18CD6B5993F628295AE42CA4F7148237CC5A032C7344DB4333C4BEF6E5882271",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/mip0_compare.hpp",
+      "destination": "src/loader/mip0_compare.hpp",
+      "sha256": "687A233813403BC1C0B7EB394F6FC3722A066E58C10501196F7B2E7EE5D6E12E",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/d3d9.def",
+      "destination": "src/loader/d3d9.def",
+      "sha256": "F634583A99AA4F95D14F237C5DA7A5EB37BB7463F018C6EC759F24F9BA1E9795",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/game_profile.hpp",
+      "destination": "src/games/game_profile.hpp",
+      "sha256": "98122F04FD651E219781CB9B0F55331097A55F08FE127716D9EE644DC95737AA",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_options.hpp",
+      "destination": "src/games/loading_options.hpp",
+      "sha256": "93023787314D4FF43ADCCFAB05398D9C8B34827A89C9B77EAEA761D5DD44B0E7",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/deploy.cpp",
+      "destination": "src/management/deploy.cpp",
+      "sha256": "95D55A576D62E30DADA17986A2DBDE45502D2A1D10E32BC3B8D085A0EB83AAC8",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_control.hpp",
+      "destination": "src/management/product_control.hpp",
+      "sha256": "122756B5E6578B8810CCEA0A69F9DB67E8FD94A4C102C9DA61F75B05D2258012",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_files.hpp",
+      "destination": "src/management/product_files.hpp",
+      "sha256": "42FE27614A57AD4CACD97747A5AB5018B0BFF20781CB63937D63E32D619DD4C0",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_maintenance.hpp",
+      "destination": "src/management/product_maintenance.hpp",
+      "sha256": "FD8E2D433A1640F22F710AF6A88B2013052382420A8F895A98820A03D0629D58",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_bundle.hpp",
+      "destination": "src/management/product_bundle.hpp",
+      "sha256": "BB52FE68A68057B5AF9E8FE023D575D36B0045BF49E335B54D4E9EF2D2F3CB40",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_legacy.hpp",
+      "destination": "src/management/product_legacy.hpp",
+      "sha256": "6E2314FD4E33B28937E046DD70B54223ADFA40E4A4FC8DB219C207501299AA7F",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_shell.hpp",
+      "destination": "src/management/product_shell.hpp",
+      "sha256": "96BA8A1772CD91DAC751BD9080DA30E06B7E1678FAEC18A2DAC29EF603613146",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_manager.cpp",
+      "destination": "src/management/product_manager.cpp",
+      "sha256": "2B110A62A83B09430548D59E186F0B60432E7B8DDB037DE382033E657E538A68",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_audit.cpp",
+      "destination": "src/management/product_audit.cpp",
+      "sha256": "C12CA5F0D3EADA9C90D37EEC6042ED2713CD127DDF3021AB0641FB6A9F6262FE",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_copy.cpp",
+      "destination": "src/management/product_copy.cpp",
+      "sha256": "F49696980EB8B87B00BAAD609E4D11101C9BDBB4EB39B18FF475326A5024C713",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/shared_manager.cpp",
+      "destination": "src/management/shared_manager.cpp",
+      "sha256": "0CB743BFE5DBBF60A724C9320CAAA177EECCF9E931B4C38DE15830AAC5DD3E26",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/shared_manager_flow.hpp",
+      "destination": "src/management/shared_manager_flow.hpp",
+      "sha256": "06EAA77F28F853AD64BB4249B19A811F990C361798BF6852D5B0C7046A6D4143",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/shared_distribution.hpp",
+      "destination": "src/management/shared_distribution.hpp",
+      "sha256": "37FB34E8077D27E4AE7E2C9C777A353CBA0BF71D35654B6B651539583F78CA5B",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/game_profile_contract.cpp",
+      "destination": "tests/native/game_profile_contract.cpp",
+      "sha256": "F7030E4EC425D7769919073F005BC5D8E6B81D286CCC816FC587C52B4750336E",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_framework_contract.cpp",
+      "destination": "tests/native/loading_framework_contract.cpp",
+      "sha256": "565B87298505B5AD6BD8550AB27B00F41ACE22D8ECD2113315CF1057083862E5",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_save_contract.cpp",
+      "destination": "tests/native/loading_save_contract.cpp",
+      "sha256": "1D46564D5D10BC2B4A6951AC3195275FE14809F41D43B5399C8A3CCEDC0280DC",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/loading_framework_gpu.cpp",
+      "destination": "tests/native/loading_framework_gpu.cpp",
+      "sha256": "2B4DDD70EEBF1132C6353B57574E7002E56E815D59226C9C2DCFFB0ACE9434DD",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/sha_loader_contract.cpp",
+      "destination": "tests/native/sha_loader_contract.cpp",
+      "sha256": "C1A74925099B3FEF92C40E44AB6D20D47565E0CEF84E88434270924E906DAFED",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/sha_loader_gpu.cpp",
+      "destination": "tests/native/sha_loader_gpu.cpp",
+      "sha256": "4DDA223A7FE58450668CA02F0C579F3D05348F8DF335506C396347E100ACA137",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/qualify.cpp",
+      "destination": "tests/native/qualify.cpp",
+      "sha256": "ADBD93D3CF101E124CB000045D111740F56E1DC5F8C6463793D8FE9F1BED3FC6",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/negative.cpp",
+      "destination": "tests/native/negative.cpp",
+      "sha256": "905869EB70615E6951340542DF7A7F8AE64ED803E7A1DBD382EC7A6063ECA736",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/d3dx_residency_compare.cpp",
+      "destination": "tests/native/d3dx_residency_compare.cpp",
+      "sha256": "E3FD24D79C97122BCB48C21AD31C33D46024CC3786B390B4853A692D55A91E24",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/test_shared_manager_flow.cpp",
+      "destination": "tests/native/test_shared_manager_flow.cpp",
+      "sha256": "8CD33B2CF5D99F558BA527A9C3880B01485502C9B035331F9A42E78B2F9F7D48",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/process_guard_fixture.cpp",
+      "destination": "tests/native/process_guard_fixture.cpp",
+      "sha256": "F4E854BA3056DE73C95A6829F44BFEA7E8BB258B12E4BE995D357B38383A89A9",
+      "role": "maintained"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/build_product_distribution.ps1",
+      "destination": "scripts/package/inner/build_product_distribution.ps1",
+      "sha256": "66D96A69ECAD871EC28EC742C7BA8AA1C693E03C1D7D2CA647C6E833A266FA88",
+      "role": "explicit-input inner media builder"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_audit_cache.ps1",
+      "destination": "scripts/package/inner/product_audit_cache.ps1",
+      "sha256": "0E8BE438285DDC7D382DB58C28396CDCBE4120F95E4BD335B38D0DFE2BEDE9D7",
+      "role": "explicit-input inner media builder"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/product_installer.iss",
+      "destination": "scripts/package/inner/product_installer.iss",
+      "sha256": "9DFA9DEAD7A6E0282678817BCA3CEC22DE65C2E3197B400BE3C0766CBF04E5E4",
+      "role": "explicit-input inner media builder"
+    },
+    {
+      "source": "草稿區/有界取證/offline_observation/geometry.py",
+      "destination": "tools/research/offline/geometry.py",
+      "sha256": "8943C47978FEF2210E213AB5EE81F631EB337F322F2223BF8F320854FF5544E5",
+      "role": "maintained offline analysis"
+    },
+    {
+      "source": "草稿區/有界取證/offline_observation/offline.py",
+      "destination": "tools/research/offline/offline.py",
+      "sha256": "CF36B7CA8DF94A2A7280D3C388EC7CAA326913C0A4DAECA5355F5D183F2F8E9A",
+      "role": "maintained offline analysis"
+    },
+    {
+      "source": "草稿區/有界取證/offline_observation/projection.py",
+      "destination": "tools/research/offline/projection.py",
+      "sha256": "CC3C9C3D539995796E3C053D84676856FFC7F697CD3DF0567BC12FD4BD6F4DFE",
+      "role": "maintained offline analysis"
+    },
+    {
+      "source": "草稿區/有界取證/offline_observation/test_offline.py",
+      "destination": "tools/research/offline/test_offline.py",
+      "sha256": "C34C009CF5C3A894FDDE5C1F23FD204C7DB97D51CDECFEECAF9A252B533FFAC6",
+      "role": "maintained offline analysis"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/build_pack.py",
+      "destination": "tools/textures/build_pack.py",
+      "sha256": "10924CF0F88C7CDE02F0ED7DACAEF560CE6908317F7578054862472A4F9F06E4",
+      "role": "maintained conservative DDS conversion",
+      "destinationSha256": "E454BDB889E03AAAB505ACF04FFC84BB7789D64686C609A0F9D996B3B4FE391E",
+      "change": "DDS-only import; conversion algorithm unchanged"
+    },
+    {
+      "source": "草稿區/有界取證/texture_pack/verify_pack.py",
+      "destination": "tools/textures/verify_pack.py",
+      "sha256": "E06A9C9DECF33D7EB441847BEB83618DF50138D861B4A4ACD05B99612A2B7DE2",
+      "role": "maintained conservative DDS conversion",
+      "destinationSha256": "3DB51E9BB4E631ECE0D2BCDE3651400F4F33569B79433258FE8DDFADF68A5710",
+      "change": "DDS-only import and reject optimized Python; verification algorithm unchanged"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/crypto/sha/asm/sha256-586.pl",
+      "destination": "dependencies/openssl-sha/crypto/sha/asm/sha256-586.pl",
+      "sha256": "89338FCE8C0691DAB40EB9772ABB5D7227BC2EAB0778C6FD95D712842134A915",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/crypto/perlasm/x86asm.pl",
+      "destination": "dependencies/openssl-sha/crypto/perlasm/x86asm.pl",
+      "sha256": "DA48FE74829EF5B1944E05F73DB57183AFC9D4F231DC6A36E1A51D009B213D6A",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/crypto/perlasm/x86masm.pl",
+      "destination": "dependencies/openssl-sha/crypto/perlasm/x86masm.pl",
+      "sha256": "6A4003FB42B62DB2A255CD5509A2E31B7E91CE3F4ECB5B0A2D63FDECF7972ED6",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/crypto/perlasm/x86gas.pl",
+      "destination": "dependencies/openssl-sha/crypto/perlasm/x86gas.pl",
+      "sha256": "8A93FCE3799D5E6CB3175870FBE26A6BE25CE3DD994BE66762EF3D2D37D76105",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/crypto/perlasm/x86nasm.pl",
+      "destination": "dependencies/openssl-sha/crypto/perlasm/x86nasm.pl",
+      "sha256": "634A852A64885856AE50AAA414DDA295861C978D6D788F90F727B0B607F85511",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/LICENSE.txt",
+      "destination": "dependencies/openssl-sha/LICENSE.txt",
+      "sha256": "7D5450CB2D142651B8AFA315B5F238EFC805DAD827D91BA367D8516BC9D49E7A",
+      "role": "third-party Apache-2.0"
+    },
+    {
+      "source": "toolchain/openssl-sha-x86-source-r1/source.json",
+      "destination": "dependencies/openssl-sha/source.json",
+      "sha256": "B9E53D19E46E357D37D6CAAE02D2C5A53D838D2456FC482A2631C8DDB42F4B81",
+      "role": "third-party provenance"
+    }
+  ],
+  "derived": [
+    {
+      "source": "草稿區/有界取證/texture_pack/extract.py",
+      "sourceSha256": "9754F5B592F5E9EA2ED4B47F9EC236FEC91172F2F3FA7C049EDD0D445EE7FF5D",
+      "destination": "tools/textures/dds.py",
+      "destinationSha256": "2BBD51B472FF7E098A392B0F102D2D92C9CF31EE67C80F70CC06FBD1FA4CDD2B",
+      "functions": [
+        "sha",
+        "dds_info"
+      ],
+      "change": "Unchanged pure functions; remove unrelated game extraction dependencies"
+    }
+  ]
+}

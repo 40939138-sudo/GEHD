@@ -1,0 +1,1733 @@
+{
+  "schema": "GEHD_TOOL_CATALOG_V1",
+  "items": [
+    {
+      "path": "草稿區/有界取證/texture_pack/ai_catalog.py",
+      "sha256": "1EC936A0FF754084B292F79EC2F39EF1D1015CCCB0DDC33CDB5E6E99822599F1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/ai_inference.py",
+      "sha256": "9BAA168417A123CFA4D3A87E2C14B635B03CC8F980C622CC2A7A95358C39341E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_checkpoint_interference.py",
+      "sha256": "A5C8AE155585ADE3C1B024806BC717834B37C5A00F3698B8BFD0228F06CA9809",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_load_timing.py",
+      "sha256": "F5C6A048B9C8FFD05A5F90CB5B7B65BAB47371DC59FA038433B8422157715421",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_prefetch_etw.py",
+      "sha256": "AA003407596BAAE28AB05B3148D4E9FF60B579330A89F5AD0ED9EF991A8CDCA2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_scenery_observation.py",
+      "sha256": "26921C757C54E1C9C79C821D24467D5BC9EB9649BEBED39CFBD53DDCDCDA2D73",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_shared_final_performance.py",
+      "sha256": "D0D2FB54AB2395E353A5541302D5E8DEA5C14EE8671B382278DB5195F0957206",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/analyze_solid_observation.py",
+      "sha256": "63A96BD7FD6226FA1424DFFFE30C768397D00093EFA9F448F08C39AC52993EF4",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/assemble.py",
+      "sha256": "B122BBEE035DAD5BBF1FCD6246FC8037482ED8EF442771E82AE6B658D4013CB2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/assemble_classified.py",
+      "sha256": "36CCE2D442BE11A8A9FC3E0D3E0D9DDF0C788B7944DF324886EF4440DC516023",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/audit_ai_coverage.py",
+      "sha256": "1F0D2F66F72868E6E68DD02C87A44B67F3C7E2984EF3A367364BBDD21A567497",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/audit_recursive_classification.py",
+      "sha256": "052FD932D58E6B111D312343B7B18D9A905C5F728986AA3D0B94AC7144590356",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/bounded_prefetch.hpp",
+      "sha256": "6E748B90F1E7567B74828FF271984046D68B3E264F26AB6058A71AB0E8DDCD72",
+      "destination": "src/loader/bounded_prefetch.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/bounded_prefetch_compare.cpp",
+      "sha256": "A03E5321DC85D8E4D114D92BA595C8CFE599B1E0CC66A35B4F3DFFD8B79A4C2F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_4x.py",
+      "sha256": "CF338F2FD5FC3DC75D6038DE216564889ECC9BD6E79FA6D18D76DB0F1880CBA3",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_bounded_prefetch.ps1",
+      "sha256": "A72304D4B5B6562C427F16BA1D277FBBF7B52F47B309D0C1F26768BD125DD4CF",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_cross_texture.ps1",
+      "sha256": "7CB3BAFFAEA0600A19EA00E9428CBE1A4FF41DFE594FDA82FA525146D296839F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_d3dx_residency.ps1",
+      "sha256": "E0F80185C0520BB1F310F04EE1D2B592C40F904D3BE5E937DD55AC75E16FB508",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_distribution_probe.ps1",
+      "sha256": "66D2E81450A438D0F3AEF3FD7ABB57D57C47FDC1E2B34A77FB0042071E3888FE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_large_compare.ps1",
+      "sha256": "A231D245845591E05686C4D94521D3ED1D499D86ABAF1BE9E71919DF054ECC75",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_load_timing.ps1",
+      "sha256": "E87B634CAFE64C8DA63D5CDBF6F5C3BF686CA06116984CD1A59BF22DB48E2737",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_loader_optimization.ps1",
+      "sha256": "995DC64DA8CD76BF8AA3AF26174C2CE02B48F0DDC4CD85D31FADB34FD36CDF5E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_loading_framework.ps1",
+      "sha256": "9B598F493F648FC12228A3D2C33DC920747F18E26A0CC97A880155AD49412753",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_openssl_sha_compare.ps1",
+      "sha256": "EBB77E38ED660BB2824BB087E975FA58E8E6027CA02DFFD85D7A7041620CE2B8",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_pack.py",
+      "sha256": "10924CF0F88C7CDE02F0ED7DACAEF560CE6908317F7578054862472A4F9F06E4",
+      "destination": "tools/textures/build_pack.py",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_persistent_prefetch.ps1",
+      "sha256": "1F094A8884288C007CE085F6D813A1BD1B2C046D2D52DA0F785CF8B80E854331",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_product.ps1",
+      "sha256": "2A1E7E6E15FE3440B2D155A9C545A87DFD885A2B25B2883BDE69DF4D5D39AC57",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_product_control.ps1",
+      "sha256": "3D98818DB7EF6085D5433B23F4CFBF21D5DA3AA6B1AFE39E3C105A2B88A034A8",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_product_data.ps1",
+      "sha256": "9BF333611F818EB8C7452A3589BAA2AF97A180C0D555040CC6C07CCA60945A9B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_product_distribution.ps1",
+      "sha256": "66D96A69ECAD871EC28EC742C7BA8AA1C693E03C1D7D2CA647C6E833A266FA88",
+      "destination": "scripts/package/inner/build_product_distribution.ps1",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_raster.py",
+      "sha256": "C0FD442366CA7467683A2E7DF3D9AA4F90DD5C64162ECF53CF3440E9ED8AEE2D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_setup_namespace_fixture.py",
+      "sha256": "B30829406C66D4B74BDA2C5AA7A0C5C40BC9027ECCAD9E3043B66741AA846D91",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_sha_loader.ps1",
+      "sha256": "84BAEEBF1B670184835F3326DF4696BF9E1CC57317457600811E3542D5A1CC5F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_shared_distribution.py",
+      "sha256": "39214F45EEB7291AEED9AF6BEB30EACE7B7026BB7E544E281DD8CC0919F1CA99",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_shared_manager.ps1",
+      "sha256": "3372F261912113AF88A7C7AC85F8B5BDDE75E8AEF0A5CD3F207E4876C0190FAE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_shared_save_trace.py",
+      "sha256": "423B1348A5B65E7EDC1F27652F24B8CF74DD03AC8B661C12AC014AF08054D858",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/build_solid_diagnostic.py",
+      "sha256": "3579EB1DBE043808E3BEB03ECDBE3758CB46871A71F524F78417004A1F2B6449",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/classification_details.py",
+      "sha256": "6885EE7A9B615916C9AF8B088AC1DC1D2D53A526E0A8B289C4F3E6C2BD96E18E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/classify.py",
+      "sha256": "A94410CA597120B5830224D9937E7B05FAA9BFD668EAB7EC46155E5DA74C26B6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/classify_external_names.py",
+      "sha256": "6DF099C5BA47A394DE3C14BCB98574FAAABF222171E82D171DEFCE7AACF71320",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/classify_recursive_names.py",
+      "sha256": "DED6FBDC8E17FD1AF7B0059E39EE764E8E01915488E173DB005753CA9B96D903",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/collect_shared_framework_evidence.py",
+      "sha256": "B79264DA3A1849D36DCDE2C4407AFBD2FBF20D9BA95496EEEC46CB204DD7BA26",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/compare_dds_compression.py",
+      "sha256": "160DA641BFF40A8792005C1FA7B227807AD0D06224E45E2A5704679A4F1DAB10",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/compare_shared_saves.py",
+      "sha256": "1FD3668F568212C0EEA24CF59900CD4328D07450693C652284609357169B9017",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/configure_scales.py",
+      "sha256": "E61789BA2247FE27DA9873538B8DB9B53C1907C6FF6BCFF4BA2618BBD0B4804B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/convert_ai.py",
+      "sha256": "241BDFF93AE30BABAFD8AF7A5405FF52EB45924B81D7385A5FB92AB1D627443A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/convert_classified.py",
+      "sha256": "49BBBB1B1E22D5404CE05CF464717416CDF0D369783D4AFFF7539C8067A34833",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/cpu_prepare.hpp",
+      "sha256": "219F3D4DE2A99ED0E5D492B8319931618FCBEF241867F437A8E68640AA81D5B3",
+      "destination": "src/loader/cpu_prepare.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/cpu_prepare_core.cpp",
+      "sha256": "2A959E35F2151B8290628FFC7BABEB86B2AE467B0CAD65689B363AE2D69CED96",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/cross_texture_compare.cpp",
+      "sha256": "828670E1811BD3955005854946841EDCF2F50E97737AF22BC853B9CFB1F4A371",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/d3d9.def",
+      "sha256": "F634583A99AA4F95D14F237C5DA7A5EB37BB7463F018C6EC759F24F9BA1E9795",
+      "destination": "src/loader/d3d9.def",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/d3dx_residency_compare.cpp",
+      "sha256": "E3FD24D79C97122BCB48C21AD31C33D46024CC3786B390B4853A692D55A91E24",
+      "destination": "tests/native/d3dx_residency_compare.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/decode_native.cpp",
+      "sha256": "F12417CEBC1EF06ED810525D83AB8326F86B57055C83FD52C2599278348FBE3F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/deploy.cpp",
+      "sha256": "95D55A576D62E30DADA17986A2DBDE45502D2A1D10E32BC3B8D085A0EB83AAC8",
+      "destination": "src/management/deploy.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/deploy.ps1",
+      "sha256": "D026C31A7683C05AF970EC9621053119D3E391038FF9C087F6C2057EF0A3683C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/distribution_probe.iss",
+      "sha256": "D1B5A728C9993CD6366E9B40CCA9CE7FE9F4D947936BBFCFDF3CB786EFBED37C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/download_torch.py",
+      "sha256": "03BB8FC693348BA589A14E994FDAEE1C8BF4A8E628B092E65DD8DCB38547F529",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/encoding_revision.py",
+      "sha256": "E7ED2655624F18C92E625057CC31BB98477D520DB5D27AE8D682468CDB2DF391",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/etw_inventory.cpp",
+      "sha256": "21658B672E3BC6CEEA96F388C77E6B81E5AC43EC1F27AE623C3D45F6CF21CFF1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/extend_ai.py",
+      "sha256": "619DAC6DB3721DBDB51AB8D4BC3E4AB6C9C42F3B4D8B0B5B7FCE6A9B23C1A9A3",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/extend_scenery_diagnostic.py",
+      "sha256": "4D2033680733F25A19D9092E131D2042B57230272C85667371B06DCC84136F5D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/extend_solid_diagnostic.py",
+      "sha256": "04E48592FE689AB933E2AC94938E895722ADF715EDF1744C164277932401C073",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/extract.py",
+      "sha256": "9754F5B592F5E9EA2ED4B47F9EC236FEC91172F2F3FA7C049EDD0D445EE7FF5D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/extract_selected.py",
+      "sha256": "6D2F2C00A9C6123250E5B519CB66158586BF14C6470C3E0FA17DDF094AD0DD1F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/fetch_openssl_sha.ps1",
+      "sha256": "B49285953CA57708D2101FF858E8CCD94892DE3CD9F1DCB12E448C4E57C9283A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/finalize_ai.py",
+      "sha256": "CE01D9613413D9491DAA37384E8563EEDC66B5C216F1B88F34C37D8FB0DDC9F0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/finalize_loading_package.py",
+      "sha256": "B56E6D4FC1E84C6AE8939F4285F295173ADF0183C8DC8B3891A738434FD06370",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/finalize_shared_full_media.py",
+      "sha256": "908766DCFFEBABC49E32855F24C62B6C025101BCCAFFEDDC1F711A4BE35B3A13",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/finish_loading_framework.py",
+      "sha256": "B67DD0E85DADDBD86E8AA4A9FFBA032F82A52F8496F2F9B89020F4DDF12D3129",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/finish_shared_offline.py",
+      "sha256": "570858D6A34B68F856971C01CFF71BCD6FEB45FC28C3FBC054866FA71B1B3005",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/game_profile.hpp",
+      "sha256": "98122F04FD651E219781CB9B0F55331097A55F08FE127716D9EE644DC95737AA",
+      "destination": "src/games/game_profile.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/game_profile_contract.cpp",
+      "sha256": "F7030E4EC425D7769919073F005BC5D8E6B81D286CCC816FC587C52B4750336E",
+      "destination": "tests/native/game_profile_contract.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/generate_ai_additions.py",
+      "sha256": "0643A33A824DD80763BE070D5C88E85A1F3E124A6A6E909CF37CA589FE3B7C6D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/index_external_names.py",
+      "sha256": "AB7C6B879DA32AA1A7F729F727B7D9CDC91BC9CB23E91D11219A4B01E6EAA177",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/index_recursive_names.py",
+      "sha256": "59E292A4A38665DDAEC6500FE96BA5AE88CA051BB6D72A06CDEAB7989BE822E7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/large_compare.cpp",
+      "sha256": "7654D87486FD5A0595B0E4A6B55282C0C44BD63DC98D69450F6418AA05732D62",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/large_read.hpp",
+      "sha256": "6CBC3BCB49328CDDC6FC66AE5FD4F072C51DA72394D4D8A2A92C81070273036B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/large_sha.hpp",
+      "sha256": "3C5DA4E36AC711FB1BD24A29FB12D10F345C66F3E1D40CC78BEA691F6673DE57",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/load_timing.hpp",
+      "sha256": "EFC44A4C628260DCE1DC9F8DAFF4307101E8422BCFD42BD5BD1AA18CFA40BF98",
+      "destination": "src/loader/load_timing.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loader_hash.hpp",
+      "sha256": "3AEC2A8FDAAF312761930EBECE24D9EE55B87B046F3D126F8A3590471673B545",
+      "destination": "src/loader/loader_hash.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_framework_contract.cpp",
+      "sha256": "565B87298505B5AD6BD8550AB27B00F41ACE22D8ECD2113315CF1057083862E5",
+      "destination": "tests/native/loading_framework_contract.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_framework_gpu.cpp",
+      "sha256": "2B4DDD70EEBF1132C6353B57574E7002E56E815D59226C9C2DCFFB0ACE9434DD",
+      "destination": "tests/native/loading_framework_gpu.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_identity.hpp",
+      "sha256": "3A966CE6DFBD9194B603B23F401839D69C393473498E4A68DDE2D735BCA46F2B",
+      "destination": "src/loader/loading_identity.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_options.hpp",
+      "sha256": "93023787314D4FF43ADCCFAB05398D9C8B34827A89C9B77EAEA761D5DD44B0E7",
+      "destination": "src/games/loading_options.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_runtime.hpp",
+      "sha256": "C3C3C70C17FA6C1B11544776C355781A490542256DE262320B51E8B038EC9EE7",
+      "destination": "src/loader/loading_runtime.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_save_contract.cpp",
+      "sha256": "1D46564D5D10BC2B4A6951AC3195275FE14809F41D43B5399C8A3CCEDC0280DC",
+      "destination": "tests/native/loading_save_contract.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/loading_variant_paths.hpp",
+      "sha256": "B160D17056BB32999B46C259E9EC31AC28F21E9DBCE35BB4F55C07A4D8000519",
+      "destination": "src/loader/loading_variant_paths.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/manifest_check.cpp",
+      "sha256": "9225D5C55386C75C9AF9A17E5E6057859F12F3283C1BB1D02D1EEBA93F756E7B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/measure_shared_process_memory.py",
+      "sha256": "5E3AD60BA83BFED0B84440610EEAD158F03E2B3AF0193F370D558E6FB76826A6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/mip0_compare.hpp",
+      "sha256": "687A233813403BC1C0B7EB394F6FC3722A066E58C10501196F7B2E7EE5D6E12E",
+      "destination": "src/loader/mip0_compare.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/mip0_control.cpp",
+      "sha256": "C50EFF71FB2D2D309B6DD709B93B85A7AAB074537A6E52A9784A54D96EC0D1A2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/negative.cpp",
+      "sha256": "905869EB70615E6951340542DF7A7F8AE64ED803E7A1DBD382EC7A6063ECA736",
+      "destination": "tests/native/negative.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/openssl_loader_sha.hpp",
+      "sha256": "18CD6B5993F628295AE42CA4F7148237CC5A032C7344DB4333C4BEF6E5882271",
+      "destination": "src/loader/openssl_loader_sha.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/openssl_sha_compare.cpp",
+      "sha256": "5D749BA4A65050991D557918A2DC61890D1930C442795D96EE583F2930DBDC2C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/optimization_benchmark.cpp",
+      "sha256": "7D4EE6BD9B23204A373F8F5682323E677CFAB33B04B39018D7F5FF00817966B2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/optimization_contract.cpp",
+      "sha256": "FDC57ACB5426B290A6E4798004EDD4332D943F61856A39B86DE0550E5C14434A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/optimization_native.cpp",
+      "sha256": "5E955D36A6C7FF5D5ABA4E5100F6B6BF9740F67840ECDFE3BC2304AAE2527A6E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/pack_loader.cpp",
+      "sha256": "59DC16F0BDB19BCC6D87D3131C41D52FC478637BEA5E96CFA1DC1BD272D45D91",
+      "destination": "src/loader/pack_loader.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/package_loading_framework.py",
+      "sha256": "A726512AD3B4E8D592F422A0FA0937B9DFD30CC02257702E0494414B5D687025",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/persistent_prefetch_compare.cpp",
+      "sha256": "7FBF606D09A591647ACBFCBEDC725A05654CAA5D17A48F7FDADDB20E4F70FEC5",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/persistent_profile.hpp",
+      "sha256": "EE5E9DE26E374EFB69D794A6534E0E2F52090104A7E7DAD7D5DC4B615E9B518A",
+      "destination": "src/loader/persistent_profile.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/plan_by_category.py",
+      "sha256": "5B748C98C0984CE50C6F0488165DAF5831C6216391BB0A4192737B7267492455",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/pool_slot_repro.cpp",
+      "sha256": "A7044173CD6BFABEBCA2919DEE5C1A8CAC952C1B448FFB53252953778C40022A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/prefetch_trace.hpp",
+      "sha256": "3054E29851765ADF33B64B8868A0947C76E9B4DCA9EBBE0F194E9290758DD588",
+      "destination": "src/loader/prefetch_trace.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/prepare_ai.py",
+      "sha256": "37D3E99E8DF7CF2672958C42FF6CAE20DE34A917AD4C7E721C5CD6BC18AAF2C6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/prepare_mip0_comparison.py",
+      "sha256": "231B8FD1866443177F723E894E8A4B68B61C462D1F01BC1D1072EC2498E4F610",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/prepare_openssl_sha_probe.py",
+      "sha256": "50D211AA095F4CA1450F1E065D7C2EED999D60C3B3A278E489DA0E728EEDD90F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/process_guard_fixture.cpp",
+      "sha256": "F4E854BA3056DE73C95A6829F44BFEA7E8BB258B12E4BE995D357B38383A89A9",
+      "destination": "tests/native/process_guard_fixture.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_audit.cpp",
+      "sha256": "C12CA5F0D3EADA9C90D37EEC6042ED2713CD127DDF3021AB0641FB6A9F6262FE",
+      "destination": "src/management/product_audit.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_audit_cache.ps1",
+      "sha256": "0E8BE438285DDC7D382DB58C28396CDCBE4120F95E4BD335B38D0DFE2BEDE9D7",
+      "destination": "scripts/package/inner/product_audit_cache.ps1",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_bundle.hpp",
+      "sha256": "BB52FE68A68057B5AF9E8FE023D575D36B0045BF49E335B54D4E9EF2D2F3CB40",
+      "destination": "src/management/product_bundle.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_check.cpp",
+      "sha256": "97E9D7C22588DBB097FB1C6644F1823BEC099512AFE700ABE04260C5F29DB91A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_control.hpp",
+      "sha256": "122756B5E6578B8810CCEA0A69F9DB67E8FD94A4C102C9DA61F75B05D2258012",
+      "destination": "src/management/product_control.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_copy.cpp",
+      "sha256": "F49696980EB8B87B00BAAD609E4D11101C9BDBB4EB39B18FF475326A5024C713",
+      "destination": "src/management/product_copy.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_files.hpp",
+      "sha256": "42FE27614A57AD4CACD97747A5AB5018B0BFF20781CB63937D63E32D619DD4C0",
+      "destination": "src/management/product_files.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_installer.iss",
+      "sha256": "9DFA9DEAD7A6E0282678817BCA3CEC22DE65C2E3197B400BE3C0766CBF04E5E4",
+      "destination": "scripts/package/inner/product_installer.iss",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_legacy.hpp",
+      "sha256": "6E2314FD4E33B28937E046DD70B54223ADFA40E4A4FC8DB219C207501299AA7F",
+      "destination": "src/management/product_legacy.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_lifecycle.cpp",
+      "sha256": "B4BC93850C2D91AD91BC0829E4E6D313F5CE9CD3C1266436952E4CAE6A3CC7D3",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_maintenance.hpp",
+      "sha256": "FD8E2D433A1640F22F710AF6A88B2013052382420A8F895A98820A03D0629D58",
+      "destination": "src/management/product_maintenance.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_manager.cpp",
+      "sha256": "2B110A62A83B09430548D59E186F0B60432E7B8DDB037DE382033E657E538A68",
+      "destination": "src/management/product_manager.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_sha_probe.cpp",
+      "sha256": "ED2CB9FD52BFA5C0C383501543A58458BBFCAB123C7E7549EB37DED3259BCC8E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/product_shell.hpp",
+      "sha256": "96BA8A1772CD91DAC751BD9080DA30E06B7E1678FAEC18A2DAC29EF603613146",
+      "destination": "src/management/product_shell.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/profile_bounds_contract.cpp",
+      "sha256": "C7CBFBFCB2CC9300B57829F5B304EDD333CED0783E1BCCBB9F4646B3717FCC7D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/profile_store_probe.cpp",
+      "sha256": "001B126B21E42F1525BE499B367A3A1B68CFA0E79ED9B438E19089FA29E12D90",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/promote_held_ai.py",
+      "sha256": "E82D7C841D196A8557DC27B91F8A5ECD0B940B62526DE54863D67D35B8E3E188",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify.cpp",
+      "sha256": "ADBD93D3CF101E124CB000045D111740F56E1DC5F8C6463793D8FE9F1BED3FC6",
+      "destination": "tests/native/qualify.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_ai_finalize.py",
+      "sha256": "2F5427EF9B8E9D0AC6DC09B4106D78D722A27457F25E0CDB6A4AC89DE7E67B83",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_ai_inference.py",
+      "sha256": "31F9957C54F173C66714C98738BE21A01766DE94CBD0F2C64B53929C2E2B3A06",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_ai_variants.py",
+      "sha256": "671C30E97957304301358273CB2739DF1B2FBDAEE0500C9B50952E5ED2679220",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_all_classified.py",
+      "sha256": "5F18E4443C5EB3A2BD74608BBB7C52469D08A4257EB886A48679642015085DDF",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_current_rgba.py",
+      "sha256": "3488343D59FD07137F26412DBB7E4E5998811E6914B126373C1E1F3139E1980E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_deploy.ps1",
+      "sha256": "87FC0D108F0EC846F81FD3A16CCB69DEB1DB2B46FC8317BE7CF6577159B6ADDA",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_distribution_probe.ps1",
+      "sha256": "EE1C16CEA173C4BD2E1AB24224395C8A9024944D4096FC39D8947B0CB99C3AE7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_load_timing.py",
+      "sha256": "D93CD4671F4B9B83CBE3431FC6403EA78754419041F24F004014E7856E25322F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_loader_optimization.py",
+      "sha256": "F746358B5D976E251F6EAD9C43E754AF16DE6EB9BE4296AC5AA57021B09AB1DF",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_loading_upgrade.py",
+      "sha256": "CA98482F26CAD55F5767A772CB6FBD0E9C4E30E3CB44847E0B567FD164E98563",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_mip0.cpp",
+      "sha256": "18C811A3F6C633025434E66706C01B1D0F7C033D61856F3EC795CBC4E4997E72",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_mixed.py",
+      "sha256": "827AAA7FF4AC946D0658C250D91F1DA75BEF4BBEF19936A2FC5C51884164CBF1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_persistent_profile_recovery.py",
+      "sha256": "430B7DF71F86204E31694309A12DFDE000A3C45ACD2EDE9DAFB0F718492B00D3",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_pipeline.py",
+      "sha256": "2C04CDD5E65032E81AAC0EB80B63B69D2817C2F013CA67C28A85CBEC4D45C018",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_bundle_recovery.ps1",
+      "sha256": "781BDCD77075DB8B109A13B1C54134C6FEEF196BFF2F5D3DFC5E42F8D6F15662",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_control.ps1",
+      "sha256": "29B877FFD6BB4B1CBBED163388FAD6CF438154C5E8FDB8A89D484647960734CB",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_cross_volume.ps1",
+      "sha256": "8EE90191A5BFBEDD7EB5069F1798E8A74E1D5F42CBC0488A671EAB7E80C23336",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_distribution.ps1",
+      "sha256": "349EA3E7C828A2B2D10C4E691A7695E673AD20B7E6DE3C22EBB524C5AE7ED672",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_full.ps1",
+      "sha256": "6370D37662B10D05EB1606272E654FB8C17DF7814F01FAA703986E5736F239DA",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_guards.ps1",
+      "sha256": "349C7082EEA3315E5EB05C96246778D756B263CEF36099062A86A920F8B164DF",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_legacy.ps1",
+      "sha256": "DE93119C974EAFCAFC881621BAE992815E7AB4F869F75B1684D3267EF6EDB5D9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_loader.ps1",
+      "sha256": "F02C8AB4ABDA7BCC6D03192BB0F1DB71ADE9A65780BD0AA301C68AAFCA406079",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_maintenance.ps1",
+      "sha256": "B08425B62AA9A77CE579B5DA87381854584F873B10EE40D78C49691558370B33",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_native.ps1",
+      "sha256": "0FEC4B6A2C6A73186BDCE8CE17B4121D3B64F9411C4291B2159467C9521EF686",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_readopt.ps1",
+      "sha256": "424EC45E4784785FC030EAEE88D3A2BB1243EF55EE1B324ECBDFFF721F95600B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_setup_update.ps1",
+      "sha256": "331ED1FC1F6F78333740B714187E72342A2EAE0ECF3D3260A66DC84610736C49",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_product_shell.ps1",
+      "sha256": "285CF300106793A4EAE838D3449EBC9FF5C6941E3D0E93B53EFE344E7668CFBC",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_profile_bounds.py",
+      "sha256": "96F17152C437E0BD89594ED1A226238DD3934C0EFE0082BEB22DE85257936222",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_recursive_names.py",
+      "sha256": "25F49DDED455E570202722DB7B1FB59FEDF916140CFA34A7807856593D63E48C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_shared_control.py",
+      "sha256": "42D443D63D65E5A6B6DCE3483E34A97C63F1F6AB1242BBBBAEC8E8ADAEA47B71",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_shared_distribution.py",
+      "sha256": "EB90D28F5305C08744F6ED5AE296ADBFB93AF21B889D49DA0312143AF825E9BB",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_shared_lifecycle.py",
+      "sha256": "0BFB32B659AF1330DCBF3E3AAD0950F2E20BA4BF2EB8D5255DE298E5F1C81F9A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_shared_setup_failure.py",
+      "sha256": "6285FD1AD962CE95DF1C9967556CA0B8275021DA7C1B8A295306E74A77DA9A01",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/qualify_timing_deploy.py",
+      "sha256": "A75A7E8876D7E7B9829F2F926988C4435971327CF9F39280865BBFC3D6D2FAE6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/rebuild_classified_mips.py",
+      "sha256": "CDB12094439BDCC4CB0FD20724E94A7670A22A84FAD1BF22D8DB17B351A3FB94",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/repair_ai_family.py",
+      "sha256": "55D9070EDFDF0D3640FF509E764E9171B31B0A97B06FDFD5DBFEF38213361E50",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/repair_ai_regions.py",
+      "sha256": "6EF97999DE3BECD90BFDA3666911B66C017EF2B9A92D65F33FAB99623833DAF1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/resolve_ai_regions.py",
+      "sha256": "DE7D208D648F60910F9CD282E484BA57866DD8137C351F9AED587D8557C4A190",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/resolve_ai_variants.py",
+      "sha256": "B46A33A858E6C8BE160F71D6992682D24006E647D53C38EB27405382D73B58CE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/resolve_dds_encoding.py",
+      "sha256": "83A36E5CE758982DF762599AB49435E9A19FD990BDF65DAF8602C0DB5A0EC10A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/review_ai_additions.py",
+      "sha256": "92CCA622415F1AD347EFC876CFD9532DF7D6B4E5A5C23A9B57C0FFCFF6D51798",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/review_ai_batch.py",
+      "sha256": "4FEB002511D2F6DE547B0DCE57D2A9080E9E72F3193BC116656BABE00E5485DC",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/review_encoded_additions.py",
+      "sha256": "E1B5A08467ECF58B4E7F4815DBBA159954C6D1E8C61A8AF61BC331119512012D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_bounded_prefetch.py",
+      "sha256": "4377912455CC6A05EB52499B378AC99AD57ADBF60AAD20701711B8A0595741DA",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_cross_texture.py",
+      "sha256": "F8E493BBC9C7B93C6919FF03DA8A03A96E287D21F1489E5A46712B8C77045975",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_d3dx_residency.py",
+      "sha256": "D08C9001396712E328F5FB0B466337A108CAB9D0576A63C9D36112102677C103",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_large_compare.py",
+      "sha256": "D114D47FBDDD288DC0C777EAC31D6E163D6711AA3687593D2B6DC2C6AEFA5D4A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_load_timing.ps1",
+      "sha256": "AA9E35200217F5B00AA4E9391E4319AE4984188A4634C6AA9181459CCFA3512E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_loading_framework.py",
+      "sha256": "A28A1D675B58A05A13E90EB44181B3753388982924A4064F22DC643F537694A5",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_openssl_sha_compare.py",
+      "sha256": "D11FF9FBA49242DC0E26B882E06D64340C17819601EED13D52AE5602DF5BEBE7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_persistent_prefetch.py",
+      "sha256": "3E3E8AC35EA39AD3CFE7A0F4657EDA2C81BB00B266D6A1DC3D6B1B3499556DD6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_prefetch_etw.py",
+      "sha256": "2078AFA906F294E29C42D8292157C10DE3868E279D7E7F38F4A36BED5C16C9B2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_prefetch_trace.py",
+      "sha256": "EEB49F8A7C7F72DFF52E808F089DFE3AE5064C83370E3A6698F52C919BF3A733",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_product_sha.py",
+      "sha256": "D2A3DDB2C307F03B6AD8D319BAE035C01FF68A57CC99FE0425D51A01BF969967",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_sha_loader.py",
+      "sha256": "8C955C7B9699213DA13AD3B0966D24C91341CBB0B0D498BB6C92B3801B0E8BCB",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/run_storage_layout.py",
+      "sha256": "6B3927043473C6179F305AB57027811EE95FA61D6824101673571201FBBB76CD",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/select_ai.py",
+      "sha256": "8E483110919B6A903113CE64B164565FDB8C8E3203F5A45007ED60D9C7945F3B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/sha_loader_contract.cpp",
+      "sha256": "C1A74925099B3FEF92C40E44AB6D20D47565E0CEF84E88434270924E906DAFED",
+      "destination": "tests/native/sha_loader_contract.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/sha_loader_fixture.cpp",
+      "sha256": "995EBFF6EA673260691C92E88D0C4918D817806E2C18AD76B8FE649868958CC7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/sha_loader_gpu.cpp",
+      "sha256": "4DDA223A7FE58450668CA02F0C579F3D05348F8DF335506C396347E100ACA137",
+      "destination": "tests/native/sha_loader_gpu.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/sha_loader_native.cpp",
+      "sha256": "3050F3A6C23CD18DD2574E3D708896ADAA75155D62B4A50A80E0D3A0305A0A1F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/sha_prefilter_requests.cpp",
+      "sha256": "E54C27050B9C7C4AEC6A0934A6F0BCE615039E860B2B82EEF1E76E4C215A47E1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/shared_distribution.hpp",
+      "sha256": "37FB34E8077D27E4AE7E2C9C777A353CBA0BF71D35654B6B651539583F78CA5B",
+      "destination": "src/management/shared_distribution.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/shared_framework_prepare.py",
+      "sha256": "4E0D21D7901ABDF7932BA2D195BA980D80892EE07FDFC0703E2D6F8BB49BEC7E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/shared_manager.cpp",
+      "sha256": "0CB743BFE5DBBF60A724C9320CAAA177EECCF9E931B4C38DE15830AAC5DD3E26",
+      "destination": "src/management/shared_manager.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/shared_manager_flow.hpp",
+      "sha256": "06EAA77F28F853AD64BB4249B19A811F990C361798BF6852D5B0C7046A6D4143",
+      "destination": "src/management/shared_manager_flow.hpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/shared_surface_policy.py",
+      "sha256": "9A297E1F7C62142AB89D26836FD7297D5280EC31B424C05D539CF2636CA8DD9B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/stage_shared_ger_data.py",
+      "sha256": "5855705EDE8F80ADC37CC269C44FFCBD4C89657CD0C01B1BB36CF246D6DAB564",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/storage_layout_probe.cpp",
+      "sha256": "46211D24E24AD93661C362730F636ED1BF0A575DA2C5105E2FCBF171E73CA41D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/supplement.py",
+      "sha256": "97D439CB1A825D7666C935BE4A2D85CB6BF1A0515888AE77ED2F92CECC7ED9C9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/test_shared_manager_flow.cpp",
+      "sha256": "8CD33B2CF5D99F558BA527A9C3880B01485502C9B035331F9A42E78B2F9F7D48",
+      "destination": "tests/native/test_shared_manager_flow.cpp",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/timing_contract.cpp",
+      "sha256": "0AD5B115DD6762E12402C8505AC93BAB92DE84367AE383FCC409001F3F41A73F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/timing_deploy.cpp",
+      "sha256": "56D664DD6760BB7346BC499C622EF2A25FA94F97E4313B68CC9D18429DABFD01",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/timing_native.cpp",
+      "sha256": "F1BBD7940932AC56A1F53B9FCE2AB98B888AC131B69B4489033CC45D47EC2811",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_ai.py",
+      "sha256": "10E3F140E3A926410010E1463640E77030BD398838D9FD393D62290B164F3B91",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_classified.py",
+      "sha256": "5D3D47D15B961D7AEE6995404F5F06F8AE1FEF9F8D9E506549DF621FB822D3AC",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_external_names.py",
+      "sha256": "B780B9CEF0A1F2B9BF2120396C527B0887EC945457A24019E8431653B4F340B0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_mip0_comparison.py",
+      "sha256": "87B98AF2088DB49EB14C6BC73EE86233DAD308A3ADD9C73063364830D8FA58E9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_pack.py",
+      "sha256": "E06A9C9DECF33D7EB441847BEB83618DF50138D861B4A4ACD05B99612A2B7DE2",
+      "destination": "tools/textures/verify_pack.py",
+      "role": "migrated; original frozen"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_recursive_names.py",
+      "sha256": "FDA43871B7833B2E0A559D3BF70EF3F13D93DE21F24BCB45E7AAAD0480E4D953",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_scenery_diagnostic.py",
+      "sha256": "5C469A233C9805E020A53F46D43A6B88FB4E03C50A707AE591095920B9484AE9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_shared_adapters.py",
+      "sha256": "4138179911C123A829E38C3A73D1DEA544BA8C96F57FE330CEE6330C4E721071",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_shared_full_media.py",
+      "sha256": "AAC18CA3D08EF19C6C9AEB94F14B5DD9F0097B11C0C41B35D1D0A3245EDCD30F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_shared_profile_recovery.py",
+      "sha256": "7399147D26F7356ADDF86ECB36E32D37F1AAB92A61CAA8192107ABFD97969C30",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_shared_save_windows.py",
+      "sha256": "C0BECB42674DAF2FA7552B14133ED982931FD6E4E11D309A09FDD9405B08C3EA",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_shared_slot_regression.py",
+      "sha256": "6D80C2E4C3646C2082CF7319B949766D37A7C05FE474BD2A0261EB1BC6BE9CF6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_solid_diagnostic.py",
+      "sha256": "B469DA7E47A72EBADFB91CEF0C09CC494CB3EA52B81863BC148BF961503F23E0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/verify_solid_expansion.py",
+      "sha256": "CFA414FAE2DB6150FC197860AD302739FE648CF57C7DE7CA942E5D7AB397A09F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "草稿區/有界取證/texture_pack/writeback_shared_framework_execution.py",
+      "sha256": "B4B6949982B11095876E19DEC2A7DBE0879EA9274BE2B10CC71DDF675AD45D3C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/after_encode.py",
+      "sha256": "68FF649C751519C8764B4B3667B24001A07B2E18AFFB937AA19C93CEC8F86C9B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/alpha_candidates.py",
+      "sha256": "1C58717C4A85E6B809049E42D37E52D85EFED948983A6CB816FA5900293F653F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/alpha_catalog.py",
+      "sha256": "368E92021F41881B188680FEE3440E1340E2DF66513E3DDA05E0C6A18AB48176",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/alpha_review_gallery.py",
+      "sha256": "79E11C5A9C8BBCEF1C0C8F3C3B444931909AA3E9A95986B37AAB2B894B72D392",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/alpha_select_reviewed.py",
+      "sha256": "3F5EB900861EAE2E436875D13848E56928A6BBCA90ABC1ED15336FF53151FF32",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/build_package.py",
+      "sha256": "FA242F341DB1FBB0A995DA2E78127D6B49C66370C199FE89154E626B1DBDCB3B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/composite_review.py",
+      "sha256": "A1CA7FC0B49E48B90230CF1958E88CDFF2FAB72F26A381B7898AC71C8B06C8F4",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/diagnostic_worker.py",
+      "sha256": "4197ABC77D3AE11BCF3F1CCCBA2E302E36A2AE15C1B919CCA4A8C100AE75F303",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/encode_watch.py",
+      "sha256": "4A02CE1E454E58874059CA9911D53F0DA8C137959878C6EF5B5E3624880A91F0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/export_ger_dds.py",
+      "sha256": "30443AF37D1A00CBCECE39498E25C1EFE6231940D7F2164DE9A0E298602423FE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/finalize_package.py",
+      "sha256": "A05E9FB6FD3B39032135672D07E76A6CEE02BFD708F797187681E86DC8D26A57",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/finish_available.py",
+      "sha256": "284577BDDFB2F7125955345F005CA05F93433BAE0DC7FCA1A3B30A3F9A04763A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/generate.py",
+      "sha256": "BAFE03CCF3FA5492BF879D816E9A9B8B1FF042B12AFBCBE854161F6635F30676",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/hair_conclusion.py",
+      "sha256": "D2321A4D04A044F78FA3CBB974F7CFCC58ADC9A57C295C43948B6863EB89162B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/hair_evidence.py",
+      "sha256": "AB9527A00A3F229A2459ABED59D3A9061A8DE970650757453ABAAD08C65B48B2",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/inspect_specials.py",
+      "sha256": "48C340170ADBD84646F3A1AAD93096161BFE5296DDD3D0C73290783C024190D0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/native_preflight.py",
+      "sha256": "D33BCE8FDA55EDBB2FE03F2A019851DC4148124C1EED54B5545CCC7AB6D9476D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/prepare.py",
+      "sha256": "76A359C53AE770309E013CC360E811AE5BE525BA6FBACA710ABB054C71D3B473",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/record_composite_review.py",
+      "sha256": "9662D73F779F03DFCC9AA05A261B6249F464062F3864C5493518BCEF0AB2EC24",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/record_contact_review.py",
+      "sha256": "2C4006F1A0FD947725D90F88C6457BA50D0637674F95C7ADD3B75A055DBAC1AE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/record_skin_repair_review.py",
+      "sha256": "2C2CE0622F917EB77D5AEC6D93E9E2DF34E26D0F629D90696AB09288EE2A587B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/record_special_review.py",
+      "sha256": "BB209185DB2635F952624007E7C0C694CDC85755C3B74D3CC902C8D0A6DF79CF",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_detail_sr.py",
+      "sha256": "8133B15EE0DCBBD6DDE880EC85457FD6FFC251B158565B35F8F11B793BEA56BE",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_followup_sr.py",
+      "sha256": "C5C5CF31A640F7924570FC212681EA7248483123816AB0D4B5F6ABB548CFD691",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_late_fields.py",
+      "sha256": "913248C5797244F77934A53DA86E1EDBB0D53E15E85BAC5EDB1CCF1D4276061F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_late_hybrids.py",
+      "sha256": "C858E357871AC994385226B4830D27678C175544BA3DA5523B60BB24480A129A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_skin_sr.py",
+      "sha256": "082C402F647CF8D5071716A457AB5C1D28D66CEBC9270C79F54E766BDEB3EC31",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_source_constraints.py",
+      "sha256": "75D16628D24FDCB3658D5BF7BEA4D9813035B28C782541580DB818A0162951A5",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/repair_text_constraints.py",
+      "sha256": "BFD269F6BA77C467D5EE68ED678D1DB6D15074B8044613818CAC05CA7D667DCB",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/resume_after_game.py",
+      "sha256": "5E89BA453777B45B1F05DB8254DA2133816D3719996E11371D4544ABF75BC9BA",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/review_contacts.py",
+      "sha256": "429D3C2CEA98B6E65A32E4A465A35D97B7367AC7596EF9B29A37800817D1E86F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/review_detail_repairs.py",
+      "sha256": "98965F2F4DD23533391ECC73168703197448089EA3A281A71775C76E064E602E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/review_followup_repairs.py",
+      "sha256": "E5099134285A8DFFA81AA3CE44FCB926C10B5A42ED1BDCED796A67AA9EA475F1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/review_skin_family.py",
+      "sha256": "55C6E4553A57B02B7F9EDA758E99C501DE1F0FEA0B572963F29822221F62722A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/review_skin_repairs.py",
+      "sha256": "B5BEE500C681916669125990422A1218601900BA3483D8E0DF2E42D5B4C2540D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/route_specials.py",
+      "sha256": "CCFE32182F8009B365C977C4730E81A5A67760438EE0296287801A4EC7C4E9D7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/run_native_qualification.py",
+      "sha256": "7A77F6E3ECB8DDA8189CEBAD0F5E9A4C57CA941414041F0BF3D2BE39F040052C",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/select_skin_repairs.py",
+      "sha256": "1701BB20648009E40EACD2B5AED5737E7D291A7A48F882EA90EE6CD490639EE6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/special_review_gallery.py",
+      "sha256": "6542A927E901FCBF88B5228BDC361955D7FB32CC76A5A965D7D4CF582797C331",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/special_sr.py",
+      "sha256": "F690AC0FC024423637638CC0D08C94E0DDB013A562CBC09FE069D45B989DC498",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/verify_delivery.py",
+      "sha256": "49C33AD53A8DC5435BA180AD431CD00020A2CE33A0BDB3FEDB8AD224DB34D79E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/verify_reused.py",
+      "sha256": "FC95A8FCFF82624835C75BC183CE0863DF41DDA6D3D886858F9FD58BCD83880F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/verify_skin_integration.py",
+      "sha256": "E4CC2D77727B9AABE11E61696E86181FA0C547CC2E3E4DBF20AB1EA9184DDCA6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/visual_review_gate.py",
+      "sha256": "27FCA0580343A83E8200C4AC0B916DB5A3DDBBA896E8777EC6957F8E37AA009D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/ger-color-hd-r1/whole_image_worker.py",
+      "sha256": "1299CC94E71BBFF35ADA125AF50A60A49D6E0C78FEE8E5888FE954976EC63670",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/audit_existing_outputs.py",
+      "sha256": "4F885F957CAB6D50A7A3F3396C63B0C5F0EF84E359F82D3DD270299F1520D5A4",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/build.py",
+      "sha256": "802D1D5884BC1D505AD9B3E988A20B889ED370D7CA403D90BBEAD8DA8815C5F0",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/build_batches.py",
+      "sha256": "302869B40659D64EFAF25B32A3B9130D77639E899EFF3EC170CFE47E6F709BA4",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/sync.py",
+      "sha256": "C582FC93E90A4748464657C456962C47EC578D7ECF5E7C6A39ACD824A9B71268",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/sync_batches.py",
+      "sha256": "FE9E2EC686ED1102D740819F1303AD528F706E4DA833E17FA4FE70B7F780EE55",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/verify.py",
+      "sha256": "8972239243CB472D1C005511F5C988921FB101C2FE2530AD47F7B9ADEEE598F7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-first-production-r1/verify_batches.py",
+      "sha256": "C234B597F28A8AFF41679D519132C97BD187FA5BF785A314150A5AC64F0C0DC1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/audit_step5.py",
+      "sha256": "D4B0F0EC998BCDC9AB68C26E6CE5DC7A8C0D100D64ADF552CEDC76DCC2869043",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/await_production.py",
+      "sha256": "202EC3F19D34E511E1B1CAC16FAE14210456DE0921CD1EDB96EBFE14AD359CA3",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/build_coverage_view.py",
+      "sha256": "7286232F117517F237A0D4FE9FA163DEE62DC5850D8E8E6CCE40A4C48A8165B7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/collect_game.py",
+      "sha256": "1A3D12022E352B7E2C1E0AB30871F734BA887492D9CFA9BF5D2728EB138B4C47",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/deploy_complete_pack.py",
+      "sha256": "E76E7BE574A62820B33FF1140ACE95F396E6CB1D348A5306A6769B1E26AC7AA9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/link_evidence.py",
+      "sha256": "436FDEC4FFE336F8A7792244B58FF0864F90E986970D4018113BAC69EFE9912F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/observe_game.py",
+      "sha256": "EC4557AD64C805884E77C92142756AF4E5076B3B7BC85D92FF1089EB1E5EDDC9",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/prepare_complete_pack.py",
+      "sha256": "D0E246004004B98FDC1A750648F5658B247DF22A6C4A1ED9F493D4AB8EB2D070",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/produce.py",
+      "sha256": "0589B41FC47AB2900638F87524D61B337F81315B097A761300444FE18EF288B1",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/produce_alpha_reference.py",
+      "sha256": "CCC48CECAAA384A2C1312300F0C95B4565476C6997549FA29667CAF3891A5F6E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/producer-attempt1.py",
+      "sha256": "24BECB3D4AD02AE42B3BDEB6F59745543C6166DD5496D5051E42B9BF54B63FA7",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/producer-before-sharing-fix.py",
+      "sha256": "AE6AE7A28BE57636B8DF15E959038FF51B8B7FAB83E20FBEC0E5DD3AF77D8FAC",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/qualify_publisher.py",
+      "sha256": "9588D068580A2ECE8FD3B8C60B38A1D435430EF9C3317403AD858D27FDA4FE2F",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/snapshot_live_game.py",
+      "sha256": "CE7F9A344AC4E2BBCC647354E384DDD76C4F2E17837205BBA3346385F26A1D5B",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/snapshot_progress.py",
+      "sha256": "53DF6357377331910595023076CDC1A3F3E442EF50EFA3A64D81BFD8C44AB7E6",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/update_entrypoints.py",
+      "sha256": "C50833CFA25B97E691E6AAD37201C92220E6C0B87559E850367D21546DB2D63E",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/verify_admission.py",
+      "sha256": "837DE794F48CFB1C3D0C995EC51BD44CD6321E087B1C0FEE9AE91F3426BBF695",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/verify_artifact_continuity.py",
+      "sha256": "2A90C09F956664A4D07963F08D60E008B359BFFFADB48E0D2EFE51978035E25A",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/verify_manifest.py",
+      "sha256": "D188B0BC06362E085FA3292B793545AFC3AE5F98584A477ABE1A84CD1A0FF126",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/verify_native.py",
+      "sha256": "D64AE4902F69A50FA4D9A796D2EB041C0C290D873A52FA2692A4FBA73BCF8937",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    },
+    {
+      "path": "toolchain/texture-color-coverage-production-r1/write_deployed_evidence.py",
+      "sha256": "860FA1357588AEBA194B84CBB5D89C02CF75D250122D1E19386510EA8B34D95D",
+      "destination": null,
+      "role": "activity-bound reference; not a standalone supported tool"
+    }
+  ]
+}
