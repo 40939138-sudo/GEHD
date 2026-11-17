@@ -1,4 +1,6 @@
-# GEHD｜GER／GE2RB 高清貼圖專案
+# GEHD｜GOD EATER Resurrection／GOD EATER 2 Rage Burst 高清貼圖模組
+
+GEHD 為 **GOD EATER Resurrection（GER／噬神者：解放重生）**與 **GOD EATER 2 Rage Burst（GE2RB／噬神者 2：狂怒解放）**的 Windows PC 高清貼圖模組（HD Texture Mod / Texture Pack）。本專案提供兩款遊戲各自的高清貼圖包、共用模組管理器、程式原碼、建置文件及貼圖製作工具。
 
 產品預覽版 **v0.1.0-preview.1**：[版本下載與安裝說明](https://github.com/40939138-sudo/GEHD/releases/tag/v0.1.0-preview.1)。計畫文件 v0.9 與產品版本分開。
 
