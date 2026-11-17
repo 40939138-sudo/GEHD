@@ -106,6 +106,8 @@ write('final-repair-records.json',{'scope':'Only repair records whose output DDS
 summary['finalRepairRecordsMatched']=len(repair_rows)
 summary['GE2RBFinalOutputsWithMatchedInitialOrRepairRecord']=len(ge2_covered)
 summary['GE2RBRemainingLineageGap']=len(maps['GE2RB'])-len(ge2_covered)
+from trace_texture_lineage import export as export_lineage
+summary.update(export_lineage(ROOT,OUT,safe))
 summary['files']=[{'name':p.name,'bytes':p.stat().st_size,'sha256':sha(p)} for p in sorted(OUT.glob('*.json')) if p.name!='index.json']
 write('index.json',summary)
 print(json.dumps({k:v for k,v in summary.items() if k!='files'},ensure_ascii=True))
