@@ -21,3 +21,20 @@ python -B tools/research/offline/test_offline.py --evidence C:/work/GE-evidence 
 `engine_research` 控制器與 `source_observation` 的 GE 限定觀測器保留原來源路徑，連 [工程導覽](../草稿區/有界取證/README.md#engineering-roles)。本次未搬遷它們，因此不改既有 runtime／lease 相對路徑；專門 runtime 不裝進一般工具包。AI 推論、分類、修復及各活動配方由 [catalog.json](catalog.json)逐檔指定 hash／用途／遷移去向，留既有活動與工具交接；不能僅憑腳本存在就宣稱可攜或獨立合格。
 
 已遷移的 DDS 轉換及離線分析以本目錄維護；舊同名原件保留為凍結追溯，不再雙寫。測試、模型、安裝器、調查中的注入程式與遊戲輸入不列為工具包的一般執行入口。
+
+
+## 高清貼圖製作來源與配方
+
+本節對應已發布的 `v0.1.0-preview.1`，提供製作資料的選定公開視圖；原始活動紀錄仍沿來源索引追溯。資料總入口為 [製作來源清單](../dependencies/texture-production/index.json)，匯出方式見 [export_texture_provenance.py](../scripts/package/export_texture_provenance.py)；匯出需要維護者保留的本機收據，不能只用公開來源包重建這些紀錄。
+
+| 需要查的資料 | 公開內容 |
+| --- | --- |
+| 原始輸入與成品對照 | [GER 4,413筆](../dependencies/texture-production/GER-mapping.json)、[GE2RB 8,138筆](../dependencies/texture-production/GE2RB-mapping.json)：來源身份、成品完整SHA256、大小、尺寸、mip、格式碼與倍率，逐筆對上固定發布build的檔案表。sourceIdentity是遊戲載入器使用的DDS身份，不一概視為原檔完整SHA256 |
+| 最終GER製作路線 | [GER逐項來源與修正索引](../dependencies/texture-production/GER-lineage.json)：4,413筆成品雜湊全部吻合；包含名稱、製作路線、紀錄與修正收據身份。紀錄路徑是本機追溯標籤，未表示所指原件也已公開 |
+| 模型版本與參數 | [模型與參數參考](../dependencies/texture-production/model-and-parameter-references.json)：一般SR的權重／架構SHA、Torch／CUDA、精度、tile／padding／alpha策略；TVT初始GER批次的模型pins、seed、prompt、分塊與重疊等，以及上游模型來源網址 |
+| 成品修正紀錄 | [1,372筆成品吻合的修正節錄](../dependencies/texture-production/final-repair-records.json)：原件／先前結果／master／成品身份與修正方法，僅納入輸出SHA與本版相同者；[GE2RB最終修正摘要](../dependencies/texture-production/GE2RB-repair-summary.json)另保留活動類別與數量。數量可能重疊，不能相加當獨立貼圖數 |
+| 尚未接實的製作鏈 | [GE2RB早期轉換吻合紀錄](../dependencies/texture-production/GE2RB-initial-conversion-match.json)只剩12筆與最終成品相同；合併本次查讀的修正紀錄後共993筆有吻合的轉換／修正紀錄，另7,145筆尚未接齊。本數字是本次查讀範圍，並非判定其他紀錄不存在 |
+
+**重製範圍。** 模型／參數是各具名製作階段的紀錄，不能假定每張成品都使用同一模型、或未經後續修正。這次公開的是來源對照、參數與修正紀錄，不含原始圖像、模型權重、全部master、人工遮罩與每一步處理程式，因此仍不能承諾從原圖逐位元重製全部高清成品。檔名、雜湊與紀錄中的接受狀態也不代替完整遊戲品質驗收。
+
+這些資料補充在目前來源庫；已發布版本的Tag與下載包保持固定，原Release ZIP不會自動包含本次補充。
