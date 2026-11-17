@@ -33,7 +33,8 @@ python -B tools/research/offline/test_offline.py --evidence C:/work/GE-evidence 
 | 最終GER製作路線 | [GER逐項來源與修正索引](../dependencies/texture-production/GER-lineage.json)：4,413筆成品雜湊全部吻合；包含名稱、製作路線、紀錄與修正收據身份。紀錄路徑是本機追溯標籤，未表示所指原件也已公開 |
 | 模型版本與參數 | [模型與參數參考](../dependencies/texture-production/model-and-parameter-references.json)：一般SR的權重／架構SHA、Torch／CUDA、精度、tile／padding／alpha策略；TVT初始GER批次的模型pins、seed、prompt、分塊與重疊等，以及上游模型來源網址 |
 | 成品修正紀錄 | [1,372筆成品吻合的修正節錄](../dependencies/texture-production/final-repair-records.json)：原件／先前結果／master／成品身份與修正方法，僅納入輸出SHA與本版相同者；[GE2RB最終修正摘要](../dependencies/texture-production/GE2RB-repair-summary.json)另保留活動類別與數量。數量可能重疊，不能相加當獨立貼圖數 |
-| 尚未接實的製作鏈 | [GE2RB早期轉換吻合紀錄](../dependencies/texture-production/GE2RB-initial-conversion-match.json)只剩12筆與最終成品相同；合併本次查讀的修正紀錄後共993筆有吻合的轉換／修正紀錄，另7,145筆尚未接齊。本數字是本次查讀範圍，並非判定其他紀錄不存在 |
+| 完整最終成品對照鏈 | [GE2RB逐項製作鏈索引](../dependencies/texture-production/GE2RB-lineage-index.json)及其分片涵蓋全部8,138筆；每筆都有同一來源身份及相同最終DDS SHA的製作／選用／修正紀錄，原先7,145筆的最終對照缺口已清零。紀錄保留選用階段、原始輸入／master／DDS參照與先前製作路線；先前路線是否被取代由sameOutputAsFinal標示 |
+| 逐項配方參照 | [製作參數目錄](../dependencies/texture-production/production-parameter-catalog.json)匯出各階段可讀的參數／模型身份及原件SHA；逐項baselineProcessing連到對應配方，不把已被修正取代的早期配方當最終方法。本次211份配方參照均在本機找到並記錄原件SHA；匯出與比對規則見[trace_texture_lineage.py](../scripts/package/trace_texture_lineage.py) |
 
 **重製範圍。** 模型／參數是各具名製作階段的紀錄，不能假定每張成品都使用同一模型、或未經後續修正。這次公開的是來源對照、參數與修正紀錄，不含原始圖像、模型權重、全部master、人工遮罩與每一步處理程式，因此仍不能承諾從原圖逐位元重製全部高清成品。檔名、雜湊與紀錄中的接受狀態也不代替完整遊戲品質驗收。
 
